@@ -1,7 +1,3 @@
-Here’s a polished **GitHub project description** for your French flag design:
-
----
-
 # 🇫🇷 CSS Flag of France
 
 A simple **HTML + CSS project** that recreates the **national flag of France** using styled div elements. The design uses three vertical stripes (blue, white, red) aligned side by side, centered on the screen with a black background for contrast.
